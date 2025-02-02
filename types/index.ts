@@ -14,6 +14,7 @@ declare global {
         price: number
         listedDate: string
     }
+
     type Category = {
         id: string
         name: string
