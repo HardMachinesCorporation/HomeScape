@@ -1,5 +1,6 @@
 <template>
    <base-header/>
+
     <slot/>
     <base-news-letter-section/>
     <base-footer/>
