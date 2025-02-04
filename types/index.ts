@@ -16,9 +16,11 @@ declare global {
     }
 
     type Category = {
-        id: string
-        name: string
-        description: string
-        image: string
-    }
+        id: string;
+        name: string;
+        description: string;
+        image: string;
+    };
+
 }
+

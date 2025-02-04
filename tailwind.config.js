@@ -21,7 +21,7 @@ export default {
                     xl: '4rem',
                     '2xl': '4rem',
                 },
-                screen: {
+                screens: {
                     sm: '576px',
                     md: '768px',
                     lg: '992px',

@@ -9,9 +9,7 @@
       <category-card
           v-for="category in categories"
           :key="category.id"
-          :name="category.name"
-          :description="category.description"
-          :image="category.image"
+          :category="category"
       />
     </div>
   </section>
